@@ -1,0 +1,335 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1703004204587517, "dur":132, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703004204587692, "dur":37886, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703004204625585, "dur":88, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703004204625716, "dur":480, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703004204626483, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1703004204626783, "dur":150, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1703004204626942, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1703004204627145, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204627635, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204627703, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204627831, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204627915, "dur":134, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204628062, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204628128, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204628211, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204628342, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204628404, "dur":345, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204628761, "dur":205, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204628980, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204629097, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204629303, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204629373, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204629430, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204629537, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204629593, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204629873, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204630065, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204630435, "dur":218, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204630710, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204631043, "dur":128, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204631257, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204631356, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204631538, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204631702, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204631825, "dur":203, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204632156, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204632313, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204632492, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204632565, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204632630, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204632842, "dur":111, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633025, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633109, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633198, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633310, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633394, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633518, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633625, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633707, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633806, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633904, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204633994, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1703004204634094, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1703004204634152, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1703004204634283, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204634354, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204634415, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1703004204634715, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1703004204634999, "dur":132, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1703004204635321, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1703004204626225, "dur":9155, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703004204635382, "dur":242068, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703004204877452, "dur":513, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703004204878224, "dur":2325, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1703004204627069, "dur":8462, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703004204635541, "dur":1598, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703004204637140, "dur":4504, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703004204641646, "dur":401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1703004204677119, "dur":4054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1703004204681331, "dur":5444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703004204691657, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703004204686930, "dur":4794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703004204691933, "dur":5361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703004204697477, "dur":181, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1703004204697691, "dur":4687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703004204702579, "dur":5702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703004204708397, "dur":5307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703004204713852, "dur":3632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703004204717746, "dur":4423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1703004204722303, "dur":6323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1703004204728700, "dur":148837, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703004204627053, "dur":8455, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703004204635787, "dur":579, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\mashi\\Gem Project\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703004204635512, "dur":1907, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703004204637420, "dur":4221, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703004204641655, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1703004204641643, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1703004204668531, "dur":3224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1703004204671906, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":2, "ts":1703004204671905, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project.exe" }}
+,{ "pid":12345, "tid":2, "ts":1703004204672039, "dur":4075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project.exe" }}
+,{ "pid":12345, "tid":2, "ts":1703004204677082, "dur":10735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703004204687928, "dur":109, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703004204688042, "dur":6626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703004204699176, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703004204694757, "dur":4529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703004204699474, "dur":4856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703004204704440, "dur":4743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703004204714260, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703004204709294, "dur":5048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703004204718907, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1703004204714585, "dur":4404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703004204719208, "dur":4411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1703004204723824, "dur":2405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1703004204726347, "dur":2885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1703004204729294, "dur":148101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204626915, "dur":8511, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204635921, "dur":651, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.CSharpSupport.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703004204635431, "dur":1812, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204637244, "dur":4393, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204641639, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1703004204673592, "dur":442, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204668834, "dur":5318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1703004204676683, "dur":10140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703004204686993, "dur":57, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204687055, "dur":177, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204687236, "dur":7154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703004204694492, "dur":4339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703004204702896, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204698929, "dur":4132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703004204703235, "dur":6218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703004204709582, "dur":4850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703004204718763, "dur":181, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204714573, "dur":4385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703004204719333, "dur":486, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204726392, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1703004204719826, "dur":6629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1703004204726626, "dur":5829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1703004204732561, "dur":144821, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703004204627375, "dur":8577, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703004204635953, "dur":5855, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703004204641819, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1703004204641809, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1703004204673646, "dur":4147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1703004204683996, "dur":223, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703004204679397, "dur":4843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703004204688553, "dur":157, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703004204684443, "dur":4286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703004204688905, "dur":59, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703004204688972, "dur":4718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703004204699196, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703004204693789, "dur":5502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703004204699464, "dur":5375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703004204704967, "dur":110, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703004204705083, "dur":5153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703004204715512, "dur":134, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703004204710365, "dur":5396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703004204720999, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1703004204715896, "dur":5201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703004204721239, "dur":4743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1703004204726108, "dur":2708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1703004204728884, "dur":148547, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703004204626809, "dur":8603, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703004204635423, "dur":1026, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703004204636450, "dur":5125, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1703004204641626, "dur":300, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1703004204641579, "dur":349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1703004204671828, "dur":7438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1703004204679407, "dur":5837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1703004204685450, "dur":4748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1703004204690297, "dur":4514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1703004204694919, "dur":6637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1703004204701703, "dur":6370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1703004204708199, "dur":4944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1703004204713275, "dur":4945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1703004204718570, "dur":8085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1703004204726759, "dur":4763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1703004204731601, "dur":145790, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204626963, "dur":8487, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204635458, "dur":875, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204635458, "dur":2531, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204637989, "dur":3607, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204641611, "dur":1089, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1703004204641597, "dur":1105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1703004204652004, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204645524, "dur":6570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1703004204652371, "dur":463, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1703004204652367, "dur":471, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1703004204656216, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204653103, "dur":3229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1703004204656440, "dur":263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1703004204660987, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204657420, "dur":3649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1703004204661254, "dur":315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1703004204661838, "dur":3136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1703004204665067, "dur":421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1703004204665506, "dur":173, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204665690, "dur":3178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1703004204669052, "dur":125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204669050, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204669699, "dur":17866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204691491, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204687675, "dur":3922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204692045, "dur":4218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204696340, "dur":2785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204699190, "dur":95, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204699292, "dur":5712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204705114, "dur":5217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204715268, "dur":329, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1703004204710519, "dur":5230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204715848, "dur":4512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204720459, "dur":4112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1703004204725523, "dur":5585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1703004204731199, "dur":146229, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703004204626743, "dur":8653, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703004204635402, "dur":6165, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703004204644230, "dur":1458, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":7, "ts":1703004204645695, "dur":342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1703004204646056, "dur":2096, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1703004204648155, "dur":293, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1703004204648674, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703004204649252, "dur":386, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mashi\\Gem Project\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703004204649642, "dur":620, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mashi\\Gem Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703004204650265, "dur":1029, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mashi\\Gem Project\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703004204651297, "dur":1409, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mashi\\Gem Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703004204652709, "dur":1993, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mashi\\Gem Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703004204654706, "dur":302, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mashi\\Gem Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703004204655010, "dur":643, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\mashi\\Gem Project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1703004204655730, "dur":202, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player57227c19-inputdata.json" }}
+,{ "pid":12345, "tid":7, "ts":1703004204645693, "dur":10402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1703004204656553, "dur":55, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1703004204657424, "dur":212750, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1703004204874935, "dur":195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1703004204874934, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1703004204875166, "dur":2125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1703004204627156, "dur":8387, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703004204635546, "dur":1086, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703004204636632, "dur":4965, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1703004204641598, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1703004204665817, "dur":3060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1703004204668959, "dur":200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204668956, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204669671, "dur":6397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204676492, "dur":5817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204682387, "dur":3212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204685664, "dur":6005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204691775, "dur":5078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204697019, "dur":3980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204701197, "dur":4489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204705820, "dur":4262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204710235, "dur":4582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204714974, "dur":3539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204718622, "dur":3180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204721895, "dur":3895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1703004204725914, "dur":2149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1703004204728183, "dur":149265, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703004204627407, "dur":8567, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703004204635974, "dur":5799, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1703004204641774, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1703004204675085, "dur":4103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1703004204679632, "dur":4850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204684554, "dur":2738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204687368, "dur":4275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204691720, "dur":4170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204695972, "dur":2769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204698899, "dur":3452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204702431, "dur":3554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204706057, "dur":4529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204710662, "dur":5496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204716297, "dur":5796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204722231, "dur":170, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204722229, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204722468, "dur":26980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":9, "ts":1703004204749499, "dur":127958, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703004204627206, "dur":8485, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703004204635694, "dur":849, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703004204636544, "dur":5025, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703004204641583, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703004204643902, "dur":7247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/app.info" }}
+,{ "pid":12345, "tid":10, "ts":1703004204651155, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1703004204652463, "dur":3071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1703004204655595, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1703004204655860, "dur":2923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1703004204659150, "dur":398, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":10, "ts":1703004204659146, "dur":405, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1703004204660434, "dur":3691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1703004204664223, "dur":214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1703004204664220, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1703004204667878, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703004204664480, "dur":3558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1703004204668206, "dur":504, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1703004204669437, "dur":3280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1703004204672834, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1703004204674255, "dur":8058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1703004204682410, "dur":4219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703004204686775, "dur":5680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703004204692545, "dur":3927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703004204701114, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1703004204696649, "dur":4531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703004204701475, "dur":4626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703004204706206, "dur":4748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703004204711140, "dur":4732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703004204715935, "dur":4011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703004204720055, "dur":3588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1703004204723743, "dur":2994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1703004204726828, "dur":3446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1703004204730378, "dur":147008, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703004204627263, "dur":8563, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703004204635832, "dur":467, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703004204636300, "dur":5463, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703004204641764, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1703004204681181, "dur":133, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703004204676034, "dur":5298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1703004204681427, "dur":4287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703004204685834, "dur":3705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703004204689641, "dur":4075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703004204693811, "dur":4263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703004204698176, "dur":3630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703004204701950, "dur":4110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703004204706138, "dur":4716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703004204715543, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1703004204710949, "dur":4806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703004204715853, "dur":4177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703004204720131, "dur":3821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1703004204724179, "dur":5015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1703004204729503, "dur":147919, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703004204627504, "dur":8807, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703004204636311, "dur":5394, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703004204641722, "dur":218, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1703004204641705, "dur":237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1703004204670758, "dur":5458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1703004204677471, "dur":8224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703004204685827, "dur":3494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703004204689414, "dur":5058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703004204694608, "dur":4949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703004204699659, "dur":6370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703004204706199, "dur":5253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703004204711733, "dur":7009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703004204718880, "dur":128, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1703004204719013, "dur":3977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1703004204723098, "dur":5839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mashi/OneDrive/Desktop/GemDrop/Gem Project_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1703004204729049, "dur":148375, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1703004204885596, "dur":2463, "ph":"X", "name": "ProfilerWriteOutput" }
+,
